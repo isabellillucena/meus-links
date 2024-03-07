@@ -57,4 +57,11 @@ div a{
     padding: 12px;
     border-radius: 8px;
     font-weight: 700;
+    line-height: 21px;
+}
+
+div a:hover {
+    background-color: #c4f82a;
+    color: #141414;
+    transition: 0.7s;
 }
